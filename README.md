@@ -1,0 +1,2 @@
+# MMDeployTest
+使用MMDeploy转换openmmlab系列模型到TRT后端并推理。
